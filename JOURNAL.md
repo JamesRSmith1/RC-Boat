@@ -3,22 +3,27 @@ title: "RC Boat"
 author: "James Smith"
 description: "Custom 3D Printed RC Boat"
 Started on: "2025-07-07"
+Total Time Spent On Project: ~14 Hours
 ---
 
 **Day 1 - July 7th Inspiration and Research**
+
 Total time - 2 Hours
+
 After taking some inspiration from a friend creating their own RC Fan Boat, I wanted to dip my toes into the RC world through making my own. I figured that an RC Boat would be a relatively easier, yet still challenging, project to start working with RC and making my own things. In the future, I will hope to make a custom 5" FPV Drone as I enjoy flying my current TinyWhoop.
 
 I used to have a fast RC Speedboat and would take it out to the lake to drive around whenever I could. I would like to try and bring this boat as I used to and try it out. 
 
-After looking at my friends fan boat, I wanted to try and challenge myself with a water prop boat. I began by looking online at videos and forums of the design of a boat. I watched many videos of boat builds and design. [This](https://sites.google.com/cherrycreekschools.org/digitaldesign/project-examples/rc-boat) site of another creators build process helped me form an idea of the physics behind a good RC boat with CoM. It also helped me in deciding my hull shape to be a displacement/deep V single hull. I decided this hull shape as it would be easiest to design and because it is similar to the boat I used to have. 
+After looking at my friends fan boat, I wanted to try and challenge myself with a water prop boat. I began by looking online at videos and forums of the design of a boat. I watched many videos of boat builds and design. [This](https://sites.google.com/cherrycreekschools.org/digitaldesign/project-examples/rc-boat) site of another creator's build process helped me form an idea of the physics behind a good RC boat with CoM. It also helped me in deciding my hull shape to be a displacement/deep V single hull. I decided this hull shape as it would be easiest to design and because it is similar to the boat I used to have. 
 
 To propel the boat, I decided I will integrate a water jet/boat intake into the hull. This allows for a more compact boat and allows the prop to be protected. I looked at various designs of water jets before picking one to design my boat around. With the general boat design in mind, I am ready to begin design.
 
 
 
 **Day 2-3 - July 8-9 Picking Parts and Designing Hull**
+
 Total Time - 8 Hours
+
 Today, I began by choosing the components of my build.
 [ELRS Reciever](https://www.amazon.com/BETAFPV-ExpressLRS-Compatible-Multirotors-Helicopters/dp/B09WHLJ2GN/ref=sr_1_2?crid=5175J2NAFMWD) - Could be used with my Radiomaster Pocket
 [ESC](https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=asc_df_B071GRSFBD?mcid=f79a234e84eb3688957acc64e2d06233&hvocijid=6570016539828006300-B071GRSFBD-&hvexpln=73&tag=hyprod-20) - Good reviews, reccomended to me, has the specs I need
@@ -44,8 +49,10 @@ I made many mistakes and changes throughout the day, making the design process t
 
 
 
-**Day 3-4 - July 10-11 Design Finishing Touches
+**Day 3-4 - July 10-11 Design Finishing Touches**
+
 Time Spent: 4 hours
+
 Throughout these past couple days, I spent lots of time to finalize the layout for my components and modeled them on the CAD to try and get a favorable center of mass while keeping the wiring in mind. This image from the ESC page shows the wiring between each of the components:
 
 <img width="437" height="123" alt="image" src="https://github.com/user-attachments/assets/d8b01e08-2439-47d0-accf-81dfbc42c682" />
